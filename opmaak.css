@@ -1,7 +1,7 @@
 body {
     background-color: rgb(228, 242, 242);
 
-    background-image: url(image\ copy.png);
+    background-image: url(image\ copy.png); width: 1360px; height: 600px;
 }
 ul {
   list-style-type: none;
