@@ -1,7 +1,7 @@
 body {
     background-color: rgb(228, 242, 242);
 
-    background-image: url()
+    background-image: url(image\ copy.png);
 }
 ul {
   list-style-type: none;
@@ -23,7 +23,6 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
 }
