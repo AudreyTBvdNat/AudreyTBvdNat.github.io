@@ -1,12 +1,12 @@
 body {
     background-color: rgb(228, 242, 242);
 
-    background-image: url(img.png); opacity: 0,8;
+    background-image: url(img.png) /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 ul {
   list-style-type: none;
   margin: 0; /*ruimte om de rand van het menu*/
-  padding: 0;
+  padding: 0; /*de ruimte van de tekst tot de rand van iets*/
   overflow: hidden;
   background-color: #ffffff;
 }
