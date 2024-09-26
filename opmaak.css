@@ -1,7 +1,7 @@
 body {
     background-color: rgb(242, 228, 242);
 
-    background-image: url("Images/img.png") /*dit is hoe je een achtergrond plaatje invoegt*/
+    background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 ul {
   list-style-type: none;
