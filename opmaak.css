@@ -5,7 +5,7 @@ body {
 }
 ul {
   list-style-type: none;
-  margin: 0; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
+  margin: 0%; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
   padding: 0; /*de ruimte van de tekst tot de rand van de zijkant*/
   overflow: hidden;
   background-color: #ffffff;
