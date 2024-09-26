@@ -5,14 +5,14 @@ body {
 }
 ul {
   list-style-type: none;
-  margin: 0; /*ruimte om de rand van het menu*/
-  padding: 5; /*de ruimte van de tekst tot de rand van iets*/
+  margin: 0; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
+  padding: 0; /*de ruimte van de tekst tot de rand van de zijkant*/
   overflow: hidden;
   background-color: #ffffff;
 }
 
 li {
-  float: left;
+  float: left; /*waar de tekst ongeveer moet verzamelen*/
 }
 
 li a {
@@ -24,6 +24,6 @@ li a {
 }
 
 li a:hover {
-  background-color: #fcc1d9;
+  background-color: #fcc1d9; /*de kleur van het blok als je met je muis erover heen gaat*/
 }
 
