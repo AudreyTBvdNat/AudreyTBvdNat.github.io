@@ -3,6 +3,13 @@ body {
 
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
+
+header {
+position: fixed;
+margin: 0;
+padding: 10px 0;
+}
+
 ul {
   list-style-type: none;
   margin: 0%; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
