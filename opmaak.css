@@ -4,11 +4,7 @@ body {
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 
-header {
-position: fixed;
-margin: 0;
-padding: 10px 0;
-}
+
 
 ul {
   list-style-type: none;
