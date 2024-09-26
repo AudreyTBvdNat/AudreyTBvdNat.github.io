@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(242, 228, 242);
+    background-color: rgb(242, 228, 242); /*de achtergrondkleur van de pagina*/
 
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 ul {
   list-style-type: none;
-  margin: 0; /*ruimte om de rand van het menu*/
+  margin: 5; /*ruimte om de rand van het menu*/
   padding: 0; /*de ruimte van de tekst tot de rand van iets*/
   overflow: hidden;
   background-color: #ffffff;
@@ -27,7 +27,3 @@ li a:hover {
   background-color: #fcc1d9;
 }
 
-p {
-  width: 50%;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
