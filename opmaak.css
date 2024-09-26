@@ -16,7 +16,6 @@ li {
 }
 
 li a {
-  position: fixed;
   display: block;
   color: rgb(0, 0, 0);
   text-align: center;
