@@ -48,11 +48,13 @@ img {
 }
 
 .footer {
-  background-color:rgb(246, 183, 173);
+  opacity: 60%;
+  background-color:rgb(250, 189, 232);
   color: rgb(0, 0, 0);
   padding: 20px;
   text-align: center;
   margin-top: 250px;
-  margin-right: 3px;
+  margin-right: 0px;
   display: block
+  
 }
