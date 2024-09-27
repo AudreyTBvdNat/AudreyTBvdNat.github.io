@@ -1,6 +1,6 @@
 body {
     background-color: rgb(242, 228, 242); /*de achtergrondkleur van de pagina*/
-
+    padding-left: 0;
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 
