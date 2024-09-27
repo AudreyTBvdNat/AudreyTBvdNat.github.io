@@ -13,7 +13,7 @@ position: static;
 
 ul {
   list-style-type: none;
-  margin: 0%; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
+  margin: 0; /*ruimte om de rand van het menu tot aan de bovenkant van de pagina*/
   padding: 0; /*de ruimte van de tekst tot de rand van de zijkant*/
   overflow: hidden;
   background-color: #ffffff;
@@ -25,7 +25,7 @@ li {
 
 li a {
   display: block;
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0); /*de kleur van de tekst in het menu*/
   text-align: center;
   padding: 14px 25px;
   text-decoration: none;
@@ -34,4 +34,5 @@ li a {
 li a:hover {
   background-color: #fcc1d9; /*de kleur van het blok als je met je muis erover heen gaat*/
 }
+
 
