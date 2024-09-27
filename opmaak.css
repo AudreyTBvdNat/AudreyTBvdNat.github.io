@@ -18,6 +18,8 @@ ul {
   padding: 0; /*de ruimte van de tekst tot de rand van de zijkant*/
   overflow: hidden;
   background-color: #ffffff;
+  top: 0;
+  width: 100%;
 }
 
 li {
