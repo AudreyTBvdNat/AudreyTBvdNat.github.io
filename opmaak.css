@@ -2,9 +2,12 @@ body {
     background-color: rgb(242, 228, 242); /*de achtergrondkleur van de pagina*/
 
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
-
+    
 }
 
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 header {
   padding: 0;
@@ -44,4 +47,7 @@ img {
   float: right;
 }
 
-
+#footer {
+  text-align: left; 
+  margin-right: 0%;
+}
