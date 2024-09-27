@@ -1,12 +1,12 @@
 body {
     background-color: rgb(242, 228, 242); /*de achtergrondkleur van de pagina*/
 
-    padding-left: 3%;
+    padding-left: 0%;
     background-image: url("Images/background.jpg") /*dit is hoe je een achtergrond plaatje invoegt*/
 }
 
 header {
-padding: 0%;
+padding: 3%;
 margin: 0px;
 }
 
