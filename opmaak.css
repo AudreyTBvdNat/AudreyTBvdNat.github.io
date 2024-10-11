@@ -44,15 +44,15 @@ li a:hover {
 }
 
 img {
-  float: right;
+  float: right; /*waar het element moet verzamelen*/
 }
 
 .footer {
-  opacity: 60%;
+  opacity: 60%; /*de helderheid van het element*/
   background-color:rgb(250, 189, 232);
   color: rgb(0, 0, 0);
   padding: 10px;
-  text-align: center;
+  text-align: center; /*waar de tekst staat in het element/blok*/
   margin-top: 250px;
   margin-right: 0px;
   display: block
